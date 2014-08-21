@@ -1,0 +1,30 @@
+{
+  "name": "event-stream-proxy",
+  "version": "0.0.0",
+  "description": "Take one event stream from a threaded server and make it an event driven server.",
+  "main": "index.js",
+  "dependencies": {
+    "eventemitter3": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mynameisrufus/node-event-stream-proxy.git"
+  },
+  "keywords": [
+    "proxy",
+    "event",
+    "stream"
+  ],
+  "author": {
+    "name": "Rufus Post",
+    "email": "rufuspost@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mynameisrufus/node-event-stream-proxy/issues"
+  },
+  "homepage": "https://github.com/mynameisrufus/node-event-stream-proxy"
+}
